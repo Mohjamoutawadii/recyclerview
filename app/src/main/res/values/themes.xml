@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">"#B0C4DE"</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.RecycleView" parent="Base.Theme.RecycleView" />
+</resources>
